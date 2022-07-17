@@ -2,7 +2,8 @@ For this python project you need packages with names:\
 time\
 pyautogui\
 animation\
-opencv-python
+opencv-python\
+pillow
 ### How to use it:
 First step: change main.py (your tg bot token and chat id )\
 Second step:You open the game with already purchased seeds\
