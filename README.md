@@ -3,7 +3,8 @@ time\
 pyautogui\
 animation\
 opencv-python\
-pillow
+pillow\
+playsound
 ### How to use it:
 First step: change main.py (your tg bot token and chat id )\
 Second step:You open the game with already purchased seeds\
